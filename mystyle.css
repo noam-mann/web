@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+/* Style the header */
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+  }
+  .titel{
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+    background-color: burlywood;
+    margin: 20px;
+  }
+  .middle{
+    float: left;
+    width: 85%;
+    padding: 15px;
+    text-align: center;
+  }
+.right{
+    float: right;
+    width: 15%;
+    padding: 15px;
+    
+}
+
+.img {
+    background-image: url();
+    height: 100vh ;
+    background-size: cover;
+    background-position: center;
+}
